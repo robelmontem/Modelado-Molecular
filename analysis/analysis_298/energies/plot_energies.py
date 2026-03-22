@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 data = np.loadtxt("energy_298.xvg", comments=["@", "#"])
 
 t = data[:, 0]
-E_tot = data[:, 1]
-E_kin = data[:, 2]
+E_tot = data[:, 2]
+E_kin = data[:, 1]
 
 plt.figure(figsize=(8,5))
 
