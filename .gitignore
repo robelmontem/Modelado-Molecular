@@ -1,0 +1,12 @@
+# Carpetas enteras
+extended_report/
+# Extensiones
+*.trr
+*.xtc
+*.edr
+*.tpr
+*.cpt
+*.log
+*.jpg
+*.jpeg
+*.png
